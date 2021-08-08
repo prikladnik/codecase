@@ -51,7 +51,8 @@ $page = GetPageName();
       PrintPageTitle($page, "contacts.php", "Контакты");
     ?>
     </title>
-    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+        <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+        <meta name="yandex-verification" content="447d09c49e495211" />
 	<meta name="description" content="Решение задач по высшей математике, услуги репетитора. Опыт больше 6 лет.">
 	<meta name="keywords" content="высшая математика, отчеты, дипломные, курсовые, рефераты, аналитическая геометрия, линейная алгебра, пределы, производные, интегралы, дифуры, дифференциальные уравнения, теория поля, ряды, операционное исчисление, симплекс-метод, транспортная задача, математические модели , теория вероятности и статистика, математическая логика, вычислительная математика, дискретная математика, уравнения математической физики">
     <link rel="stylesheet" href="style.css" type="text/css" />	
