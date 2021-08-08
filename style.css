@@ -1,0 +1,13 @@
+body {font-size: 10pt; font-family: Verdana, Arial; color: #404040; background-color: #ffffff;}
+
+.headpage {font: bold 35px/40px "Verdana"; color: #575757; }
+
+table.main {border:1px; width:700px; cellspacing:1px; cellpadding:1px;}
+table.inside {border:1px; width:700px; cellspacing:1px; cellpadding:1px;}
+table.bottom {border:1px; width:700px; cellspacing:1px; cellpadding:1px; valign:top;}
+
+.doc {text-align: right;}
+
+img {border: 0px;}
+hr.task_r {width: 400px;}
+li.lit {padding: 5px 0;"}
